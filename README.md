@@ -1,4 +1,4 @@
-# DeepStack_OpenLogo
+# DeepStack_USPS
 
 ![](images/usps_detected.jpg)
 
